@@ -7,8 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### To Start the Project
 
 1. Clone this repository 
-2. 'npm install'
-3. 'npm start'
+2. `npm install`
+3. `npm start`
 
 ### Markdown
 

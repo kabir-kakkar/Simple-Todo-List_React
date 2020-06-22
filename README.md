@@ -6,9 +6,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### To Start the Project
 
-1. Clone this repository 
-2. `npm install`
-3. `npm start`
+1. Clone this repository
+  
+    `https://github.com/kabir-kakkar/Simple-Todo-List_React.git`
+
+2. Make sure you have Node Installed
+
+    `npm install`
+
+3. Start the Website on a local server using Node
+    `npm start`
 
 ### Markdown
 

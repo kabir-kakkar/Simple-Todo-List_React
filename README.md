@@ -15,6 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     `npm install`
 
 3. Start the Website on a local server using Node
+
     `npm start`
 
 ### Markdown
